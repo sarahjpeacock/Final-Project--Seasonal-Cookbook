@@ -1,0 +1,32 @@
+nav{
+  font-family: cursive;
+}
+
+div{
+  font-family: cursive;
+}
+
+p{
+  font-family: cursive;
+}
+#jumbotron {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: cursive;
+    color: sienna;
+  }
+
+  h5{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-style: cursive;
+    }
+
+  .container {
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+
+  #example-recipes img{
+    width: 100%;  /* fit the image within the div */
+    margin: 15px 0;
+  }
